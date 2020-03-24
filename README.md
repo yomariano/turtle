@@ -3,7 +3,7 @@
 ## Assumptions
 
 1. Settings of the game is a Json file (settings.json) and moves are just a line in a txt file
-2. Maze start at 0,0 from bottom/left
+2. Maze starts at 0,0 from bottom/left
 
 ### Setup
 
